@@ -1,0 +1,24 @@
+{
+  "name": "jsonp",
+  "version": "0.2.0",
+  "description": "A jsonp learning research",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ouranoshong",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.0",
+    "babel-preset-env": "^1.5.2",
+    "babili-webpack-plugin": "^0.1.1",
+    "clean-webpack-plugin": "^0.1.16",
+    "eslint": "^4.1.1",
+    "eslint-loader": "^1.8.0",
+    "webpack": "^3.0.0",
+    "webpack-merge": "^4.1.0"
+  }
+}
